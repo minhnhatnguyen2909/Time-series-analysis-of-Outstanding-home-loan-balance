@@ -1,0 +1,2 @@
+# Time-series-analysis-of-Outstanding-home-loan-balance
+Accurate forecasting of outstanding home loan balances plays a vital role in financial planning, credit risk management, and policy formulation. This study proposes a hybrid forecasting framework that integrates the Seasonal Autoregressive Integrated Moving Average (SARIMA) model with the nonlinear XGBoost algorithm to enhance prediction accuracy.
